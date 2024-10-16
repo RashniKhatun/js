@@ -1,2 +1,2 @@
 # js
-This repo for js
+This repo for js.
